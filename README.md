@@ -1,6 +1,6 @@
 # Useful PowerShell Scripts
 
-Practical, copy ready PowerShell scripts for day-to-day IT Support / Helpdesk / SysAdmin work. Each script includes a comments, prerequisites, and safe usage notes.
+Practical, copy ready PowerShell scripts for day-to-day IT Support / Helpdesk / SysAdmin work. Each script includes a comments to aud safe usage notes.
 
 Maintained by Oluwatobi Fadokun. 
 
